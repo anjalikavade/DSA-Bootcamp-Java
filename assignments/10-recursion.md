@@ -41,14 +41,21 @@
 1- [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode` -10-4-2025 
 
 2- [Word Search](https://leetcode.com/problems/word-search/) `leetcode` -10-4-2025
+
 3- [Target sum](https://leetcode.com/problems/target-sum/) `leetcode` -10-4-2025
+
 4- [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode` -10-4-2025
+
 5- [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode` -10-4-2025
+
 6- [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode` -10-4-2025
+
 7- [N Digit numbers with digits in increasing order](https://practice.geeksforgeeks.org/problems/n-digit-numbers-with-digits-in-increasing-order5903/1/) `GFG`
+
 8- [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
-9- [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
-10- [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG`
+
+ 9- [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
+ 10- [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG`
 11- [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium)
 12- [Divisible Subset](https://www.codechef.com/problems/DIVSUBS)  `Codechef`
 13- [Perfect squares](https://leetcode.com/problems/perfect-squares/)`leetcode`
