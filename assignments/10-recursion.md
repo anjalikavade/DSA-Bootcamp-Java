@@ -55,31 +55,57 @@
 8- [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
 
  9- [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
+ 
  10- [Handshakes](https://practice.geeksforgeeks.org/problems/handshakes1303/1/) `GFG`
+ 
 11- [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium)
+
 12- [Divisible Subset](https://www.codechef.com/problems/DIVSUBS)  `Codechef`
+
 13- [Perfect squares](https://leetcode.com/problems/perfect-squares/)`leetcode`
+
 14- [decode string](https://leetcode.com/problems/decode-string/)`leetcode`
+
 15- [find the winner of the circular game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) `leetcode`
+
 16- [Different ways to add parantheses in the expression](https://leetcode.com/problems/different-ways-to-add-parentheses/) `leetcode`
+
 17- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) `leetcode`
+
 18- [Predict the winner.](https://leetcode.com/problems/predict-the-winner/) `leetcode`
+
 19- [Gray code](https://practice.geeksforgeeks.org/problems/gray-code-1611215248/1/) `GFG` `Google`
+
 20- [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) `leetcode`
+
 21- [combination Sum III](https://leetcode.com/problems/combination-sum-iii/) `leetcode`
+
 22- [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `leetcode`
+
 23- [Letter tile possibilities](https://leetcode.com/problems/letter-tile-possibilities/) `leetcode`
+
 24- [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) `leetcode`
+
 25- [Sort a stack using recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/) `GFG`
+
 26- [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/) `GFG`
+
 27- [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) `leetcode`
+
 28- [Lowest Common Ancestor of a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1/) `GFG` `Amex`
+
 29- [Prime numbers after prime P with sum S](https://www.geeksforgeeks.org/prime-numbers-after-prime-p-with-sum-s/) `GFG`
+
 30- [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) `leetcode`
+
 31- [Longest Possible Route in a Matrix with Hurdles](https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/) `GFG`
+
 32- [Tug of war](https://www.geeksforgeeks.org/tug-of-war/) `GFG` `Adobe`
+
 33- [Rat in a maze](https://www.geeksforgeeks.org/rat-in-a-maze-backtracking-2/) `GFG`
+
 34- [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
+
 
 ## Hard
 - [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
